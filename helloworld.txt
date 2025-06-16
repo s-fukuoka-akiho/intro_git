@@ -2,3 +2,4 @@ helloworld
 基本的な使い方を覚える
 ・git add
 ・git commit
+・git rm
